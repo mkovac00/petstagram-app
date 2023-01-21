@@ -1,0 +1,11 @@
+.splitter-container {
+    width: 100%;
+    height: 100px;
+    background-color: var(--lunarGreen);
+    margin-top: 30px; margin-bottom: 30px;
+}
+
+.splitter-text {
+    color: var(--white);
+    font-size: 2rem;
+}
